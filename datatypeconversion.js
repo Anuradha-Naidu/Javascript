@@ -69,3 +69,9 @@ const y1 = x1++;
 let x2 = 3;
 const y2 = ++x2;
 // x2 is 4; y2 is 4
+
+
+console.log("2" === 2);
+console.log(null == 0);
+console.log(null >= 0);
+console.log(null > 0);
