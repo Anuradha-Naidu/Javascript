@@ -41,4 +41,13 @@ console.log(valueInNumber4); // undefined is NaN
 
 
 
+//boolean true/false
+const score4 = false;
+
+console.log(score4);
+console.log(typeof score4); // true-false is boolean
+
+let valueInNumber5 = Number(score4)
+console.log(typeof valueInNumber5);
+console.log(valueInNumber5); // true =1, false = 0
 
