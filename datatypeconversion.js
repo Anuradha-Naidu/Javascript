@@ -60,3 +60,12 @@ console.log(typeof score5);
 
 let valueInNumber6 = String(score5)
 console.log(typeof valueInNumber6);
+
+//suffix prefix 
+let x1 = 3;
+const y1 = x1++;
+// x1 is 4; y1 is 3
+
+let x2 = 3;
+const y2 = ++x2;
+// x2 is 4; y2 is 4
