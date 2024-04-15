@@ -51,3 +51,12 @@ let valueInNumber5 = Number(score4)
 console.log(typeof valueInNumber5);
 console.log(valueInNumber5); // true =1, false = 0
 
+
+//number to string 
+const score5 = 33
+
+console.log(score5);
+console.log(typeof score5);
+
+let valueInNumber6 = String(score5)
+console.log(typeof valueInNumber6);
